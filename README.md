@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-Takie testowe tralala
+Takie tese tralala
 i tu se zmieniam dalej hop siup
